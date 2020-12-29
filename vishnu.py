@@ -1,4 +1,4 @@
-a,b=20,30
+a,b=20,3
 print(a+b)
 print(a-b)
 print(a*b)
